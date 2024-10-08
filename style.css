@@ -1,0 +1,27 @@
+body{
+    background-color: hsl(0, 0%, 8%) ;
+}
+.hover {
+    display: block;
+    cursor: pointer;
+    background-color: hsl(0, 0%, 20%); 
+    color: white;
+    padding: 10px ; 
+    border-radius:5px;
+    width: 85%;
+    margin: auto;
+    margin-bottom: 15px;
+
+  } 
+  
+  .hover a{
+    color: white;
+  }
+
+  .hover a:hover{
+    color: blac;
+  }
+  .hover:hover {
+    background-color: yellow;
+    color: black;
+  }
